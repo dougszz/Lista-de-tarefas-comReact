@@ -1,1 +1,1 @@
-# Feito com React básico, JavaScript e css.
+# Feito com React básico
